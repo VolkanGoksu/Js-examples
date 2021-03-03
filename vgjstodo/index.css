@@ -1,0 +1,9 @@
+
+  
+  .todos li{
+    background: rgb(244, 244, 248);
+  }
+  .delete{
+    cursor: pointer;
+  }
+  
