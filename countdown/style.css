@@ -1,0 +1,34 @@
+
+body{
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/710SKl7-r2L._AC_SL1008_.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+h1{
+    font-size: 4rem;
+    margin-top: -2rem;
+}
+.countdown-container{
+    display: flex;
+}
+.big-text{
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1;
+    margin:0 1rem;
+
+}
+.countdown-el {
+   text-align: center;
+}
+.countdown-el span{
+    font-size: 2rem;
+    color:red;
+    font-weight: bold;
+}
